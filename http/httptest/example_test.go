@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"github.com/celerous/go-http/http"
-	"github.com/celerous/go-http/http/httptest"
+	"http"
+	"http/httptest"
 )
 
 func ExampleResponseRecorder() {

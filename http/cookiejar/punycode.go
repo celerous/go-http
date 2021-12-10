@@ -8,7 +8,7 @@ package cookiejar
 
 import (
 	"fmt"
-	"github.com/celerous/go-http/http/internal/ascii"
+	"http/internal/ascii"
 	"strings"
 	"unicode/utf8"
 )

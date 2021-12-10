@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"log"
 	"net"
-	"github.com/celerous/go-http/http/internal/ascii"
+	"http/internal/ascii"
 	"net/textproto"
 	"strconv"
 	"strings"

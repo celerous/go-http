@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"github.com/celerous/go-http/http"
+	"http"
 	"os"
 	"os/exec"
 	"strconv"

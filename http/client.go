@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"github.com/celerous/go-http/http/internal/ascii"
+	"http/internal/ascii"
 	"net/url"
 	"reflect"
 	"sort"

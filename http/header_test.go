@@ -6,7 +6,7 @@ package http
 
 import (
 	"bytes"
-	"github.com/celerous/go-http/internal/race"
+	"internal/race"
 	"reflect"
 	"runtime"
 	"testing"

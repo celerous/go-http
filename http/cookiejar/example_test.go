@@ -7,9 +7,9 @@ package cookiejar_test
 import (
 	"fmt"
 	"log"
-	"github.com/celerous/go-http/http"
-	"github.com/celerous/go-http/http/cookiejar"
-	"github.com/celerous/go-http/http/httptest"
+	"http"
+	"http/cookiejar"
+	"http/httptest"
 	"net/url"
 )
 

@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"crypto/tls"
 	"io"
-	"github.com/celerous/go-http/http"
+	"http"
 	"strings"
 )
 

@@ -8,7 +8,7 @@ import (
 	"bufio"
 	"io"
 	"net"
-	"github.com/celerous/go-http/http"
+	"http"
 	"testing"
 )
 

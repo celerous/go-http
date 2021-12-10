@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"github.com/celerous/go-http/http"
-	"github.com/celerous/go-http/http/httptest"
-	"github.com/celerous/go-http/http/httputil"
+	"http"
+	"http/httptest"
+	"http/httputil"
 	"net/url"
 	"strings"
 )

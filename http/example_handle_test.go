@@ -7,7 +7,7 @@ package http_test
 import (
 	"fmt"
 	"log"
-	"github.com/celerous/go-http/http"
+	"http"
 	"sync"
 )
 

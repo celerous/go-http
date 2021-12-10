@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"fmt"
 	"io"
-	"github.com/celerous/go-http/http"
+	"http"
 	"net/textproto"
 	"strconv"
 	"strings"

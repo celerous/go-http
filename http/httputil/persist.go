@@ -9,7 +9,7 @@ import (
 	"errors"
 	"io"
 	"net"
-	"github.com/celerous/go-http/http"
+	"http"
 	"net/textproto"
 	"sync"
 )

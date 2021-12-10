@@ -6,8 +6,8 @@ package http
 
 import (
 	"io"
-	"github.com/celerous/go-http/http/httptrace"
-	"github.com/celerous/go-http/http/internal/ascii"
+	"http/httptrace"
+	"http/internal/ascii"
 	"net/textproto"
 	"sort"
 	"strings"

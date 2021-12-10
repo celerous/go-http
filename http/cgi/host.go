@@ -20,7 +20,7 @@ import (
 	"io"
 	"log"
 	"net"
-	"github.com/celerous/go-http/http"
+	"http"
 	"net/textproto"
 	"os"
 	"os/exec"

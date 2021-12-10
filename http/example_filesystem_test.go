@@ -7,7 +7,7 @@ package http_test
 import (
 	"io/fs"
 	"log"
-	"github.com/celerous/go-http/http"
+	"http"
 	"strings"
 )
 

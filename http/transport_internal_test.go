@@ -12,7 +12,7 @@ import (
 	"errors"
 	"io"
 	"net"
-	"github.com/celerous/go-http/http/internal/testcert"
+	"http/internal/testcert"
 	"strings"
 	"testing"
 )

@@ -6,7 +6,7 @@ package cookiejar
 
 import (
 	"fmt"
-	"github.com/celerous/go-http/http"
+	"http"
 	"net/url"
 	"sort"
 	"strings"

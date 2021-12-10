@@ -1,3 +1,3 @@
-module github.com/celerous/go-http/internal
+module internal
 
 go 1.16

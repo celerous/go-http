@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"io"
 	"math/rand"
-	"github.com/celerous/go-http/http"
+	"http"
 	"net/url"
 	"runtime"
 	"runtime/pprof"

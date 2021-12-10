@@ -7,7 +7,7 @@ package httptest
 import (
 	"fmt"
 	"io"
-	"github.com/celerous/go-http/http"
+	"http"
 	"testing"
 )
 

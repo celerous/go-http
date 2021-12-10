@@ -11,8 +11,8 @@ import (
 	"crypto/x509"
 	"fmt"
 	"io"
-	. "github.com/celerous/go-http/http"
-	"github.com/celerous/go-http/http/httptest"
+	. "http"
+	"http/httptest"
 	"strings"
 	"testing"
 )

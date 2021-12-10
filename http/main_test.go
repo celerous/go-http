@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"github.com/celerous/go-http/http"
+	"http"
 	"os"
 	"runtime"
 	"sort"

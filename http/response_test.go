@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"go/token"
 	"io"
-	"github.com/celerous/go-http/http/internal"
+	"http/internal"
 	"net/url"
 	"reflect"
 	"regexp"

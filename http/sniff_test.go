@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io"
 	"log"
-	. "github.com/celerous/go-http/http"
+	. "http"
 	"reflect"
 	"strconv"
 	"strings"

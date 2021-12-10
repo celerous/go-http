@@ -7,8 +7,8 @@ package httptrace_test
 import (
 	"fmt"
 	"log"
-	"github.com/celerous/go-http/http"
-	"github.com/celerous/go-http/http/httptrace"
+	"http"
+	"http/httptrace"
 )
 
 func Example() {

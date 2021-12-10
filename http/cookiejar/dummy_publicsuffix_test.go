@@ -4,7 +4,7 @@
 
 package cookiejar_test
 
-import "github.com/celerous/go-http/http/cookiejar"
+import "http/cookiejar"
 
 type dummypsl struct {
 	List cookiejar.PublicSuffixList

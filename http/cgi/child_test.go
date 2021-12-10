@@ -9,8 +9,8 @@ package cgi
 import (
 	"bufio"
 	"bytes"
-	"github.com/celerous/go-http/http"
-	"github.com/celerous/go-http/http/httptest"
+	"http"
+	"http/httptest"
 	"strings"
 	"testing"
 )

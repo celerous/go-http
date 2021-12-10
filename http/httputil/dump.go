@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"io"
 	"net"
-	"github.com/celerous/go-http/http"
+	"http"
 	"net/url"
 	"strings"
 	"time"

@@ -7,7 +7,7 @@ package httptest
 import (
 	"crypto/tls"
 	"io"
-	"github.com/celerous/go-http/http"
+	"http"
 	"net/url"
 	"reflect"
 	"strings"

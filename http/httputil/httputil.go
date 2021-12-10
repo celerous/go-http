@@ -3,12 +3,12 @@
 // license that can be found in the LICENSE file.
 
 // Package httputil provides HTTP utility functions, complementing the
-// more common ones in the github.com/celerous/go-http/http package.
+// more common ones in the http package.
 package httputil
 
 import (
 	"io"
-	"github.com/celerous/go-http/http/internal"
+	"http/internal"
 )
 
 // NewChunkedReader returns a new chunkedReader that translates the data read from r

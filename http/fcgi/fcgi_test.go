@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"errors"
 	"io"
-	"github.com/celerous/go-http/http"
+	"http"
 	"strings"
 	"testing"
 	"time"
