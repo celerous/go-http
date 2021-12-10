@@ -7,7 +7,7 @@ package pprof
 import (
 	"bytes"
 	"fmt"
-	"github.com/celerous/go-http/internalprofile"
+	"github.com/celerous/go-http/internal/profile"
 	"io"
 	"github.com/celerous/go-http/http"
 	"github.com/celerous/go-http/http/httptest"

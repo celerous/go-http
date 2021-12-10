@@ -13,7 +13,7 @@ import (
 	"crypto/tls"
 	"errors"
 	"fmt"
-	"internal/godebug"
+	"github/celerous/go-http/internal/godebug"
 	"io"
 	"log"
 	"math/rand"

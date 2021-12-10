@@ -12,7 +12,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/celerous/go-http/internaltestenv"
+	"github.com/celerous/go-http/internal/testenv"
 	"io"
 	"github.com/celerous/go-http/http"
 	"github.com/celerous/go-http/http/httptest"

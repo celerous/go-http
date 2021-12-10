@@ -62,7 +62,7 @@ import (
 	"context"
 	"fmt"
 	"html"
-	"github.com/celerous/go-http/internalprofile"
+	"github.com/celerous/go-http/internal/profile"
 	"io"
 	"log"
 	"github.com/celerous/go-http/http"
